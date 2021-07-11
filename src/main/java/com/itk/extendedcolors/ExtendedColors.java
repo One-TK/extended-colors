@@ -35,7 +35,7 @@ public class ExtendedColors {
 		// Register ourselves for server and other game events we are interested in
 		MinecraftForge.EVENT_BUS.register(this);
 	}
-	
+	// test test test
 	@SubscribeEvent
 	public static void onRegisterItems(final RegistryEvent.Register<Item> event) {
 		BlockInit.BLOCKS.getEntries().stream().map(RegistryObject::get).forEach(block -> {
