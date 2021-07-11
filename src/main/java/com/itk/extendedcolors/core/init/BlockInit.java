@@ -19,6 +19,12 @@ public class BlockInit {
 			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
 					.harvestLevel(0).sound(SoundType.WOOL)));
 	
+	public static final RegistryObject<Block> REDWOOLBLOCK = BLOCKS.register("redwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_RED).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+	
+	
+	
 	//How does fire work?????
 	//public boolean 
 	//Blocks.FIRE.setFireInfo(ExtendedColors.EXAMPLE_BLOCK,30,60);

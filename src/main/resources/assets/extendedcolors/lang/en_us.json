@@ -1,5 +1,7 @@
 {
 	"item.extendedcolors.example_item": "Example Item",
 	"block.extendedcolors.example_block": "Example Block",
+	"block.extendedcolors.redwoolblock": "Red Wool Block",
+	
 	"itemGroup.extendedcolors" : "Extended Colors Items"
 }
