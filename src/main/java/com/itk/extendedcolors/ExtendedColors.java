@@ -1,5 +1,7 @@
 package com.itk.extendedcolors;
 
+import java.util.List;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -7,7 +9,6 @@ import com.itk.extendedcolors.core.init.BlockInit;
 import com.itk.extendedcolors.core.init.ItemInit;
 import com.itk.extendedcolors.core.itemgroup.ExtendedColorsItemGroup;
 
-import io.netty.resolver.AbstractAddressResolver;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraftforge.common.MinecraftForge;

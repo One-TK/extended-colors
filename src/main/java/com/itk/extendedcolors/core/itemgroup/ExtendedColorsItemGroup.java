@@ -4,6 +4,7 @@ import com.itk.extendedcolors.core.init.ItemInit;
 
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
+//import net.minecraft.util.NonNullList;
 
 public class ExtendedColorsItemGroup extends ItemGroup {
 	
@@ -17,4 +18,9 @@ public class ExtendedColorsItemGroup extends ItemGroup {
 	public ItemStack makeIcon() {
 		return new ItemStack(ItemInit.EXAMPLE_ITEM.get());
 	}
+
+	/*@Override
+	public void fillItemList(NonNullList<ItemStack> items) {
+		super.fillItemList(items);
+	} */
 }
