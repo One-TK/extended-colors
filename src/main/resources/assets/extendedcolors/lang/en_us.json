@@ -3,6 +3,14 @@
 	"block.extendedcolors.example_block": "Example Block",
 	"block.extendedcolors.redwoolblock": "Red Wool Block",
 	"block.extendedcolors.maroonwoolblock": "Maroon Wool Block",
+	"block.extendedcolors.scarletwoolblock": "Scarlet Wool Block",
+	"block.extendedcolors.brickredwoolblock": "Brick Red Wool Block",
+	"block.extendedcolors.chestnutwoolblock": "Chestnut Wool Block",
+	"block.extendedcolors.orangeredwoolblock": "Orange-Red Wool Block",
+	"block.extendedcolors.sunsetorangewoolblock": "Sunset Orange Wool Block",
+	"block.extendedcolors.bittersweetwoolblock": "Bittersweet Wool Block",
+	"block.extendedcolors.vividtangerinewoolblock": "Vivid Tangerine Wool Block",
+	"block.extendedcolors.burntorangewoolblock": "Burnt Orange Wool Block",
 	
 	"itemGroup.extendedcolors" : "Extended Colors Items"
 }
