@@ -11,6 +11,9 @@
 	"block.extendedcolors.bittersweetwoolblock": "Bittersweet Wool Block",
 	"block.extendedcolors.vividtangerinewoolblock": "Vivid Tangerine Wool Block",
 	"block.extendedcolors.burntorangewoolblock": "Burnt Orange Wool Block",
+	"block.extendedcolors.redorangewoolblock": "Red Orange Wool Block",
+	"block.extendedcolors.orangewoolblock": "Orange Wool Block",
+	"block.extendedcolors.macandcheesewoolblock": "Mac and Cheese Wool Block",
 	
 	"itemGroup.extendedcolors" : "Extended Colors Items"
 }
