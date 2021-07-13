@@ -14,6 +14,19 @@
 	"block.extendedcolors.redorangewoolblock": "Red Orange Wool Block",
 	"block.extendedcolors.orangewoolblock": "Orange Wool Block",
 	"block.extendedcolors.macandcheesewoolblock": "Mac and Cheese Wool Block",
+	"block.extendedcolors.mangotangowoolblock": "Mango Tango Wool Block",
+	"block.extendedcolors.yelloworangewoolblock": "Yellow Orange Wool Block",
+	"block.extendedcolors.bananamaniawoolblock": "Banana Mania Wool Block",
+	"block.extendedcolors.maizewoolblock": "Maize Wool Block",
+	"block.extendedcolors.orangeyellowwoolblock": "Orange Yellow Wool Block",
+	"block.extendedcolors.goldenrodwoolblock": "Goldenrod Wool Block",
+	"block.extendedcolors.dandelionwoolblock": "Dandelion Wool Block",
+	"block.extendedcolors.yellowwoolblock": "Yellow Wool Block",
+	"block.extendedcolors.greenyellowwoolblock": "Green Yellow Wool Block",
+	"block.extendedcolors.olivegreenwoolblock": "Olive Green Wool Block",
+	"block.extendedcolors.springgreenwoolblock": "Spring Green Wool Block",
+	"block.extendedcolors.canarywoolblock": "Canary Wool Block",
+	"block.extendedcolors.lemonyellowwoolblock": "Lemon Yellow Wool Block",
 	
 	"itemGroup.extendedcolors" : "Extended Colors Items"
 }
