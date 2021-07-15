@@ -4,6 +4,7 @@ import com.itk.extendedcolors.ExtendedColors;
 
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
+import net.minecraft.block.Blocks;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.material.MaterialColor;
@@ -19,6 +20,9 @@ public class BlockInit {
 			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
 					.harvestLevel(0).sound(SoundType.WOOL)));
 	
+/*	public static final RegistryObject<Block> REDWOOLBLOCK = BLOCKS.register("redwoolblock",
+			() -> new WoolBlock(AbstractBlock.Properties.from(Blocks.WHITE_WOOL)));
+	*/
 	public static final RegistryObject<Block> REDWOOLBLOCK = BLOCKS.register("redwoolblock",
 			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
 					.harvestLevel(0).sound(SoundType.WOOL)));

@@ -1,7 +1,7 @@
 {
 	"item.extendedcolors.example_item": "Example Item",
-	
 	"block.extendedcolors.example_block": "Example Block",
+	
 	"block.extendedcolors.redwoolblock": "Red Wool Block",
 	"block.extendedcolors.maroonwoolblock": "Maroon Wool Block",
 	"block.extendedcolors.scarletwoolblock": "Scarlet Wool Block",
@@ -122,5 +122,15 @@
 	"block.extendedcolors.bluegraywoolblock": "Blue Gray Wool Block",
 	"block.extendedcolors.whitewoolblock": "White Wool Block",
 	
-	"itemGroup.extendedcolors" : "Extended Colors Items"
+	"itemGroup.extendedcolorswool" : "Extended Colors: Wool",
+	"itemGroup.extendedcolorstbd1" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd2" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd3" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd4" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd5" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd6" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd7" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd8" : "Extended Colors: TBD",
+	"itemGroup.extendedcolorstbd9" : "Extended Colors: TBD"
+	
 }
