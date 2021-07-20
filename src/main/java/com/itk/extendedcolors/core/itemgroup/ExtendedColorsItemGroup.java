@@ -25,7 +25,7 @@ public class ExtendedColorsItemGroup extends ItemGroup {
 	@Override
 	public ItemStack makeIcon() {
 		//below is to set the tab icon image
-		return new ItemStack(ItemInit.BLACKWOOLBLOCK.get());
+		return new ItemStack(ItemInit.EXAMPLE_ITEM.get());
 	}
 
 }
