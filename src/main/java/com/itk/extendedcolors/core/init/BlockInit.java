@@ -26,6 +26,8 @@ public class BlockInit {
 			() -> new WoolBlock(AbstractBlock.Properties.from(Blocks.WHITE_WOOL)));
 */
 	
+	// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Standard Colors ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	
 	public static final RegistryObject<Block> REDWOOLBLOCK = BLOCKS.register("redwoolblock",
 			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
 					.harvestLevel(0).sound(SoundType.WOOL)));
@@ -525,6 +527,68 @@ public class BlockInit {
 	public static final RegistryObject<Block> WHITEWOOLBLOCK = BLOCKS.register("whitewoolblock",
 			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
 					.harvestLevel(0).sound(SoundType.WOOL)));
+	
+	// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Fluorescent Colors ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	public static final RegistryObject<Block> RADICALREDWOOLBLOCK = BLOCKS.register("radicalredwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> WILDWATERMELONWOOLBLOCK = BLOCKS.register("wildwatermelonwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> OUTRAGEOUSORANGEWOOLBLOCK = BLOCKS.register("outrageousorangewoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> ATOMICTANGERINEWOOLBLOCK = BLOCKS.register("atomictangerinewoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> NEONCARROTWOOLBLOCK = BLOCKS.register("neoncarrotwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> SUNGLOWWOOLBLOCK = BLOCKS.register("sunglowwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> LASERLEMONWOOLBLOCK = BLOCKS.register("laserlemonwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> ELECTRICLIMEWOOLBLOCK = BLOCKS.register("electriclimewoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> SCREAMINGREENWOOLBLOCK = BLOCKS.register("screamingreenwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> MAGICMINTWOOLBLOCK = BLOCKS.register("magicmintwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> BLIZZARDBLUEWOOLBLOCK = BLOCKS.register("blizzardbluewoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> SHOCKINGPINKWOOLBLOCK = BLOCKS.register("shockingpinkwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> RAZZLEDAZZLEROSEWOOLBLOCK = BLOCKS.register("razzledazzlerosewoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+	public static final RegistryObject<Block> PURPLEPIZZAZZWOOLBLOCK = BLOCKS.register("purplepizzazzwoolblock",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+					.harvestLevel(0).sound(SoundType.WOOL)));
+
+//	public static final RegistryObject<Block> WOOLBLOCK = BLOCKS.register("woolblock",
+//			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
+//					.harvestLevel(0).sound(SoundType.WOOL)));
 	
 	
 }
