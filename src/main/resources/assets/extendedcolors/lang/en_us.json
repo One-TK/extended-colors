@@ -2,7 +2,7 @@
 	"item.extendedcolors.example_item": "Example Item",
 	"block.extendedcolors.example_block": "Example Block",
 
-
+	"block.extendedcolors.wooltabitemicon": "wooltabitemicon",
 
 	"block.extendedcolors.redwoolblock": "Red Wool Block",
 	"block.extendedcolors.maroonwoolblock": "Maroon Wool Block",
@@ -129,12 +129,12 @@
 	"block.extendedcolors.radicalredwoolblock": "Radical Red Wool Block",
 	"block.extendedcolors.wildwatermelonwoolblock": "Wild Watermelon Wool Block",
 	"block.extendedcolors.outrageousorangewoolblock": "Outrageous Orange Wool Block",
-	"block.extendedcolors.atomictangerinewoolblock": "Atomic Tangerine Wool Block",
+	"block.extendedcolors.sizzlingsunsetwoolblock": "Sizzling Sunset Wool Block",
 	"block.extendedcolors.neoncarrotwoolblock": "Neon Carrot Wool Block",
 	"block.extendedcolors.sunglowwoolblock": "Sunglow Wool Block",
 	"block.extendedcolors.laserlemonwoolblock": "Laser Lemon Wool Block",
 	"block.extendedcolors.electriclimewoolblock": "Electric Lime Wool Block",
-	"block.extendedcolors.screamingreenwoolblock": "Screamin Green Wool Block",
+	"block.extendedcolors.springforestwoolblock": "Spring Forest Wool Block",
 	"block.extendedcolors.magicmintwoolblock": "Magic Mint Wool Block",
 	"block.extendedcolors.blizzardbluewoolblock": "Blizzard Blue Wool Block",
 	"block.extendedcolors.shockingpinkwoolblock": "Shocking Pink Wool Block",
