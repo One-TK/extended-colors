@@ -14,12 +14,12 @@ public class ItemInit {
 	public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS,
 			ExtendedColors.MOD_ID);
 
-	/*
-	 Uncomment when image for item tab gets added
+	
+//	 Uncomment when image for item tab gets added
 	  
 	public static final RegistryObject<BlockItem> WOOLTABITEMICON = ITEMS.register("wooltabitemicon",
-		() -> new BlockItem(BlockInit.BLACKWOOLBLOCK.get(), new Item.Properties()));
-			
+		() -> new BlockItem(BlockInit.WOOLTABITEMICON.get(), new Item.Properties()));
+/*			
 	public static final RegistryObject<BlockItem> TABITEMICON = ITEMS.register("tabitemicon",
 		() -> new BlockItem(BlockInit.BLACKWOOLBLOCK.get(), new Item.Properties()));
 			
@@ -403,8 +403,8 @@ public class ItemInit {
 	public static final RegistryObject<BlockItem> OUTRAGEOUSORANGEWOOLBLOCK = ITEMS.register("outrageousorangewoolblock",
 			() -> new BlockItem(BlockInit.OUTRAGEOUSORANGEWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
 	
-	public static final RegistryObject<BlockItem> ATOMICTANGERINEWOOLBLOCK = ITEMS.register("atomictangerinewoolblock",
-			() -> new BlockItem(BlockInit.ATOMICTANGERINEWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
+	public static final RegistryObject<BlockItem> SIZZLINGSUNSETWOOLBLOCK = ITEMS.register("sizzlingsunsetwoolblock",
+			() -> new BlockItem(BlockInit.SIZZLINGSUNSETWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
 	
 	public static final RegistryObject<BlockItem> NEONCARROTOOLBLOCK = ITEMS.register("neoncarrotwoolblock",
 			() -> new BlockItem(BlockInit.NEONCARROTWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
@@ -418,8 +418,8 @@ public class ItemInit {
 	public static final RegistryObject<BlockItem> ELECTIRICLIMEWOOLBLOCK = ITEMS.register("electriclimewoolblock",
 			() -> new BlockItem(BlockInit.ELECTRICLIMEWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
 	
-	public static final RegistryObject<BlockItem> SCREAMINGREENWOOLBLOCK = ITEMS.register("screamingreenwoolblock",
-			() -> new BlockItem(BlockInit.SCREAMINGREENWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
+	public static final RegistryObject<BlockItem> SPRINGFORESTWOOLBLOCK = ITEMS.register("springforestwoolblock",
+			() -> new BlockItem(BlockInit.SPRINGFORESTWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
 	
 	public static final RegistryObject<BlockItem> MAGICMINTWOOLBLOCK = ITEMS.register("magicmintwoolblock",
 			() -> new BlockItem(BlockInit.MAGICMINTWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
