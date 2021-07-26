@@ -1138,7 +1138,7 @@ public static final RegistryObject<Block> HAZELEYESWOOLBLOCK = BLOCKS.register("
             () -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
                     .harvestLevel(0).sound(SoundType.WOOL)));
 
-public static final RegistryObject<Block> LIGHTALMOWOOLBLOCK = BLOCKS.register("lightalmowoolblock",
+public static final RegistryObject<Block> LIGHTALMONDWOOLBLOCK = BLOCKS.register("lightalmondwoolblock",
             () -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.COLOR_GRAY).strength(0.8f, 1.2f)
                     .harvestLevel(0).sound(SoundType.WOOL)));
 

@@ -849,8 +849,8 @@ public static final RegistryObject<BlockItem> GREENEYESWOOLBLOCK = ITEMS.registe
 public static final RegistryObject<BlockItem> HAZELEYESWOOLBLOCK = ITEMS.register("hazeleyeswoolblock",
             () -> new BlockItem(BlockInit.HAZELEYESWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
 
-public static final RegistryObject<BlockItem> LIGHTALMOWOOLBLOCK = ITEMS.register("lightalmowoolblock",
-            () -> new BlockItem(BlockInit.LIGHTALMOWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
+public static final RegistryObject<BlockItem> LIGHTALMONDWOOLBLOCK = ITEMS.register("lightalmondwoolblock",
+            () -> new BlockItem(BlockInit.LIGHTALMONDWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
 
 public static final RegistryObject<BlockItem> LIGHTGOLDENWOOLBLOCK = ITEMS.register("lightgoldenwoolblock",
             () -> new BlockItem(BlockInit.LIGHTGOLDENWOOLBLOCK.get(), new Item.Properties().tab(ExtendedColorsItemGroup.EXTENDEDCOLORS_WOOL)));
