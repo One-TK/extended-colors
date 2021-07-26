@@ -7,8 +7,8 @@ import net.minecraft.item.ItemStack;
 
 public class ExtendedColorsItemGroup extends ItemGroup {
 	
+	public static final ExtendedColorsItemGroup EXTENDEDCOLORS_ITEMS = new ExtendedColorsItemGroup(ItemGroup.TABS.length, "extendedcolorsitems");
 	public static final ExtendedColorsItemGroup EXTENDEDCOLORS_WOOL = new ExtendedColorsItemGroup(ItemGroup.TABS.length, "extendedcolorswool");
-	public static final ExtendedColorsItemGroup EXTENDEDCOLORS_TBD1 = new ExtendedColorsItemGroup(ItemGroup.TABS.length, "extendedcolorstbd1");
 	public static final ExtendedColorsItemGroup EXTENDEDCOLORS_TBD2 = new ExtendedColorsItemGroup(ItemGroup.TABS.length, "extendedcolorstbd2");
 	public static final ExtendedColorsItemGroup EXTENDEDCOLORS_TBD3 = new ExtendedColorsItemGroup(ItemGroup.TABS.length, "extendedcolorstbd3");
 	public static final ExtendedColorsItemGroup EXTENDEDCOLORS_TBD4 = new ExtendedColorsItemGroup(ItemGroup.TABS.length, "extendedcolorstbd4");

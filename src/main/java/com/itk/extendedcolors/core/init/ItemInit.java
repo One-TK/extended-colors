@@ -17,22 +17,15 @@ public class ItemInit {
 	
 //	 Uncomment when image for item tab gets added
 	  
-	public static final RegistryObject<BlockItem> WOOLTABITEMICON = ITEMS.register("wooltabitemicon",
-		() -> new BlockItem(BlockInit.WOOLTABITEMICON.get(), new Item.Properties()));
 /*			
+ Block Icon
 	public static final RegistryObject<BlockItem> TABITEMICON = ITEMS.register("tabitemicon",
 		() -> new BlockItem(BlockInit.BLACKWOOLBLOCK.get(), new Item.Properties()));
-			
-	public static final RegistryObject<BlockItem> TABITEMICON = ITEMS.register("tabitemicon",
-		() -> new BlockItem(BlockInit.BLACKWOOLBLOCK.get(), new Item.Properties()));
-			
-	public static final RegistryObject<BlockItem> TABITEMICON = ITEMS.register("tabitemicon",
-		() -> new BlockItem(BlockInit.BLACKWOOLBLOCK.get(), new Item.Properties()));
-			
-	public static final RegistryObject<BlockItem> TABITEMICON = ITEMS.register("tabitemicon",
-		() -> new BlockItem(BlockInit.BLACKWOOLBLOCK.get(), new Item.Properties()));
-			
-	*/
+		
+Item Icon	
+	public static final RegistryObject<Item> TABITEMICON = ITEMS.register("tabitemicon",
+			() -> new Item(new Item.Properties()));
+*/
 	
 	
 	public static final RegistryObject<Item> EXAMPLE_ITEM = ITEMS.register("example_item",
@@ -41,6 +34,11 @@ public class ItemInit {
 	public static final RegistryObject<Item> EXAMPLE_BLOCK = ITEMS.register("example_block",
 			() -> new Item(new Item.Properties().tab(ItemGroup.TAB_MISC)));
 
+//	public static final RegistryObject<Item> ITEMSTABITEMICON = ITEMS.register("itemstabitemicon",
+//			() -> new Item(new Item.Properties()));
+	
+	public static final RegistryObject<Item> WOOLTABITEMICON = ITEMS.register("wooltabitemicon",
+			() -> new Item(new Item.Properties()));
 	
 	// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Standard Colors ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
