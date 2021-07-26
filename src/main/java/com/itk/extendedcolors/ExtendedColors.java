@@ -5,15 +5,8 @@ import org.apache.logging.log4j.Logger;
 
 import com.itk.extendedcolors.core.init.BlockInit;
 import com.itk.extendedcolors.core.init.ItemInit;
-import com.itk.extendedcolors.core.itemgroup.ExtendedColorsItemGroup;
-
-import net.minecraft.item.BlockItem;
-import net.minecraft.item.Item;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
