@@ -1,3 +1,6 @@
 {
-  "parent": "extendedcolors:block/wooltabitemicon"
+	"parent" : "item/generated",
+	"textures": {
+		"layer0" : "extendedcolors:items/wooltabitemicon"
+	}	
 }
